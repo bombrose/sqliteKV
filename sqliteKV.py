@@ -1,3 +1,4 @@
+__all__ = ['DB']
 import sqlite3
 
 try:
